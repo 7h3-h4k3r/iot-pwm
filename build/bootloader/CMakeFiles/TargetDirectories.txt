@@ -1,0 +1,3 @@
+/workdir/IOT-ass/3-diff-led/build/bootloader/CMakeFiles/boot_stage2.dir
+/workdir/IOT-ass/3-diff-led/build/bootloader/CMakeFiles/edit_cache.dir
+/workdir/IOT-ass/3-diff-led/build/bootloader/CMakeFiles/rebuild_cache.dir
